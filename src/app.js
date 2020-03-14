@@ -22,7 +22,7 @@ app.get('/about',(req,res) =>
 {
     res.render('about',{
         title:'about me',
-        name:'robot'
+        name:'saiteja'
     })
 })
 app.get('/help',(req,res) =>
